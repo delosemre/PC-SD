@@ -2,6 +2,8 @@
 
 Bilgisayarınızı, zamanlayarak kapatma.
 
+https://delosemre.github.io/PC-SD/
+
 # Önizleme
 
 ![](https://raw.githubusercontent.com/delosemre/resimler/master/PC-SD/pc-sd.PNG)
